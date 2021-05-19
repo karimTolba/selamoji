@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Hanalei&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Hanalei&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+#body-css{
+    background-color:white;
+}
+
+a{
+    font-weight:bold;
+    font-size: 20px;
+}
+#brand{
+    color:white;
+    font-size: 30px;
+    font-family: 'Notable', cursive;
+}
+
+.color{
+    color:white;
+}
+#facebook{
+    background-color:blue;
+    border-radius: 10px;
+    padding:11px 20px 11px 20px;
+}
+
+.fa-youtube{
+    color:white;
+
+}
+#youtube{
+    background-color:red;
+    border-radius: 10px;
+    padding:11px 13px 11px 13px;
+
+}
+
+.fa-twitter{
+    color:white;
+
+}
+#twitter{
+    background-color:lightblue;
+    border-radius: 10px;
+    padding:11px 13px 11px 13px;
+}
+
+.fa-instagram{
+    color:blueviolet;
+
+}
+#instagram{
+    background-color:white;
+    border-radius: 10px;
+    padding:11px 14px 11px 14px;
+
+}
+
+footer{
+    background-color:#328bf2;
+    padding:20px;
+    margin-top:50px;
+    width:100%;
+}
+.margin{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.copy_rights{
+    font-size:25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    color:white;
+}
+#links{
+    color:white;
+}
+#navbar_logo{
+    width:150px;
+    height:50px;
+}
+.store{
+    background-color: black;
+    color:white;
+    border:none;
+    font-size:25px;
+    border-radius:10px;
+    padding:15px;
+    position: relative;
+    margin-left:15px;
+    margin-top:15px;
+}
+#social_media{
+    text-align: center;
+    margin-top: 10px;
+}
+.social_media_item{
+    margin-left:10px;
+}
+
+#service{
+    color:white;
+}
+
+#privacy_policy{
+    text-decoration: none;
+    font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    color:white;
+}
+#divider{
+    height: 3px;
+    margin-bottom: 30px;
+    background-color: white;
+    border:none;
+}
+#card_id{
+    background-color: black;
+    color:white;
+}
+#success_message{
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    letter-spacing: 1px;
+}
+
+#comment_box{
+    padding:1%;
+    height:80px;
+    width:50%;
+    margin:20px auto;
+}
+#comment_body{
+    width:90%;
+    height:90%;
+    border:1px solid black;
+    float:left;
+    margin-top:auto;
+    margin-bottom: auto;
+
+}
+ .card-body> p > a{
+    text-decoration: underline;
+    margin: 0px 10px;
+    color:inherit;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight:bold;
+    outline: 0;
+  }

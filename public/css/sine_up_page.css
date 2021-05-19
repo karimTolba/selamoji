@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+#fieldset{
+    margin-top: 50px;
+    margin-bottom : 50px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form{
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin-top:20px;
+    background-color: lightblue;
+}
+.form-group{
+    font-size: 20px;
+}
+.form-control{
+    border:2px solid black;
+}
+.btn{
+    margin-left: 10px;
+}
+#buttons{
+    margin-top: 30px;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    padding:10px;
+    margin: 0px auto;
+    width:70%;
+    color:#007bff!important;
+}
+
